@@ -15,6 +15,8 @@ Python and Visual components tool
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
 It is calculated as,
+<img width="444" height="125" alt="image" src="https://github.com/user-attachments/assets/826cc8b0-a879-4c87-b38b-18778290a0cd" />
+
 
 The variance of a random variable shows the variability or the scatterings of the random variables.
 It shows the distance of a random variable from its mean. It is calcualted as
