@@ -66,7 +66,7 @@ var = EX2 - mean**2
 SD = np.sqrt(var)
 print("\nX\tp(x)")
 for i in range(M + 1):
-    if f[i] > 0:   # Only print arrivals that actually occurred
+    if f[i] > 0: 
         print(f"{X[i]}\t{p[i]:.3f}")
 print(f"\nThe Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
